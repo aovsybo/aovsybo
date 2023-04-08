@@ -5,8 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/aovsybo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="aovsybo" height="40" width="40" /></a>
-<a href="https://instagram.com/aovsybo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aovsybo" height="30" width="40" /></a>
+  <a href="https://t.me/aovsybo" target="blank"><img align="center" src="asserts/telegram.png" alt="aovsybo" height="30" width="30" /></a>
+  <a href="https://vk.com/aovsybo" target="blank"><img align="center" src="vk.png" alt="aovsybo" height="30" width="30" /></a>
+  <a href="matgr2n@gmail.com" target="blank"><img align="center" src="gmail.png" alt="aovsybo" height="30" width="30" /></a>
+  <a href="https://instagram.com/aovsybo" target="blank"><img align="center" src="instagram.png" alt="aovsybo" height="30" width="30" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
