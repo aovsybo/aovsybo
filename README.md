@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/aovsybo" target="blank"><img align="center" src="asserts/telegram.png" alt="aovsybo" height="30" width="30" /></a>
-  <a href="https://vk.com/aovsybo" target="blank"><img align="center" src="vk.png" alt="aovsybo" height="30" width="30" /></a>
-  <a href="matgr2n@gmail.com" target="blank"><img align="center" src="gmail.png" alt="aovsybo" height="30" width="30" /></a>
-  <a href="https://instagram.com/aovsybo" target="blank"><img align="center" src="instagram.png" alt="aovsybo" height="30" width="30" /></a>
+  <a href="https://vk.com/aovsybo" target="blank"><img align="center" src="asserts/vk.png" alt="aovsybo" height="30" width="30" /></a>
+  <a href="matgr2n@gmail.com" target="blank"><img align="center" src="asserts/gmail.png" alt="aovsybo" height="30" width="30" /></a>
+  <a href="https://instagram.com/aovsybo" target="blank"><img align="center" src="asserts/instagram.png" alt="aovsybo" height="30" width="30" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
